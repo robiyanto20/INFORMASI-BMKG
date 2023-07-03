@@ -20,7 +20,7 @@ Karena Spesifikasi Laptop saya kurang mumpuni untuk menjalankan Android Studio a
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/jsonlaunch.png)https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/jsonlaunch.png)
+![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/jsonlaunch.png)
 
 * Setting untuk Json Launch agar berjalan pada Google Chrome.
 
