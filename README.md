@@ -28,3 +28,8 @@ Karena Spesifikasi Laptop saya kurang mumpuni untuk menjalankan Android Studio a
 ## API INFORMASI GEMPA DARI BMKG
 ![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/apibmkg.png)
 
+## Menentukan TITIK Lokasi dari API di Daerah Indonesia
+![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/aturanlokasi.png)
+
+
+
