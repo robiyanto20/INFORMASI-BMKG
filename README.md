@@ -34,6 +34,11 @@ Karena Spesifikasi Laptop saya kurang mumpuni untuk menjalankan Android Studio a
 ## Mengatur Tipe Map dari hasil JSON API BMKG
 ![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/timemodel.png)
 
+- Tampilan MENU UTAMA APLIKASI DENGAN WILAYAH INDONESIA / PROVINSI / DAERAH
+- ## Screenshoot
+![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/home1.png)
+
+
 
 
 
