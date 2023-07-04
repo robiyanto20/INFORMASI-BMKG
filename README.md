@@ -25,5 +25,6 @@ Karena Spesifikasi Laptop saya kurang mumpuni untuk menjalankan Android Studio a
 * Setting untuk Json Launch agar berjalan pada Google Chrome.
 * -------------------------------------------------------------------------------
 - Setelah mengatur tampilan atau Home pada Flutter, Selanjutnya kita akan memasukkan API dari JSON yang di sediakan oleh BMKG
+- 
 ![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/apibmkg.png)
 
