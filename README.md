@@ -31,5 +31,12 @@ Karena Spesifikasi Laptop saya kurang mumpuni untuk menjalankan Android Studio a
 ## Menentukan TITIK Lokasi dari API di Daerah Indonesia
 ![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/aturanlokasi.png)
 
+## Mengatur Tipe Map dari hasil JSON API BMKG
+![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/timemodel.png)
+
+
+
+
+
 
 
