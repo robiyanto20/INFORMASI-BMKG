@@ -40,6 +40,8 @@ Karena Spesifikasi Laptop saya kurang mumpuni untuk menjalankan Android Studio a
 ![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/home2.png)
 ![App Screenshot](https://raw.githubusercontent.com/robiyanto20/INFORMASI-BMKG/master/home3.png)
 
+~ Sekian dan Terimakasih
+
 
 
 
